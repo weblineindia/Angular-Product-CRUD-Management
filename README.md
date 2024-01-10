@@ -42,12 +42,7 @@ Before running the application, make sure you have the following installed:
    ng serve
    ```
 
-2. Open your web browser and navigate to `http://localhost:4200/` to access the profile and change password pages.
-
-## Configuration
-
-- Update the API endpoint in the `Environment File` to connect to your authentication backend.
-- Customize the form validation rules and styling in the profile and change password components.
+2. Open your web browser and navigate to `http://localhost:4200/` to access the product management pages.
 
 ## Contributing
 
